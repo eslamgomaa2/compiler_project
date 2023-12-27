@@ -1,0 +1,15 @@
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\compiler_project(syntax).csproj.AssemblyReference.cache
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\compiler_project(syntax).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\compiler_project(syntax).AssemblyInfoInputs.cache
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\compiler_project(syntax).AssemblyInfo.cs
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\compiler_project(syntax).csproj.CoreCompileInputs.cache
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\bin\Debug\net7.0\compiler_project(syntax).exe
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\bin\Debug\net7.0\compiler_project(syntax).deps.json
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\bin\Debug\net7.0\compiler_project(syntax).runtimeconfig.json
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\bin\Debug\net7.0\compiler_project(syntax).dll
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\bin\Debug\net7.0\compiler_project(syntax).pdb
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\compiler_project(syntax).dll
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\refint\compiler_project(syntax).dll
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\compiler_project(syntax).pdb
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\compiler_project(syntax).genruntimeconfig.cache
+C:\Users\Softlaptop\Desktop\.net_projects\compiler_project(syntax)\compiler_project(syntax)\obj\Debug\net7.0\ref\compiler_project(syntax).dll
